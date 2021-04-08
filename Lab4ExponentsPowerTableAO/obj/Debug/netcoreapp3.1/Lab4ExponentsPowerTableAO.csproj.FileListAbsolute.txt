@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\bin\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.exe
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\bin\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.deps.json
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\bin\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.runtimeconfig.json
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\bin\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.runtimeconfig.dev.json
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\bin\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.dll
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\bin\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.pdb
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\obj\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\obj\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\obj\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.AssemblyInfo.cs
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\obj\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\obj\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.dll
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\obj\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.pdb
+C:\Users\12482\source\repos\Lab4ExponentsPowerTableAO\Lab4ExponentsPowerTableAO\obj\Debug\netcoreapp3.1\Lab4ExponentsPowerTableAO.genruntimeconfig.cache

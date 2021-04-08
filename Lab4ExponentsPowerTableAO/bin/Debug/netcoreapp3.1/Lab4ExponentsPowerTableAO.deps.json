@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab4ExponentsPowerTableAO/1.0.0": {
+        "runtime": {
+          "Lab4ExponentsPowerTableAO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab4ExponentsPowerTableAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
